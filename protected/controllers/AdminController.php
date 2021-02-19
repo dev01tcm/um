@@ -24,6 +24,7 @@ class AdminController extends Controller
 	//--------------------------------------------------------------------LOAD TAB CONTENT
 
 	//tabemp
+	//tabemp
 	public function actionTabemp(){
 		$this->renderPartial('emp/index');
 	}

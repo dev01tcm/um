@@ -9,7 +9,6 @@ class ApproverController extends Controller
 
 
 	//loadrequesttap
-	//loadrequesttap
 	public function actionLoadrequesttap(){
 		$this->renderPartial('request/index');
 	}

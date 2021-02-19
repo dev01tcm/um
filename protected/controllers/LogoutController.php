@@ -5,9 +5,6 @@ class LogoutController extends Controller {
 	// function init() {
 	// 	parent::chkLogin(); 
 	// }
-	// function init() {
-	// 	parent::chkLogin(); 
-	// }
 	
 	public function actionIndex() {
 		$idtoken =Yii::app()->session['idtoken'];

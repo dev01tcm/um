@@ -3,7 +3,7 @@
 class ProfileController extends Controller
 {
 
-	//index
+	
 	public function actionIndex()
 	{
 		$this->renderPartial('index');
